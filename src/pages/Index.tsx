@@ -64,10 +64,10 @@ const Index = () => {
             </div>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center animate-slideInRight">
-              <Link to="/lessons">
+              <Link to="/signup">
                 <Button size="lg" className="btn-hero px-8 py-4 text-lg font-semibold">
                   <BookOpen className="w-5 h-5 mr-2" />
-                  Start Learning
+                  Sign Up
                 </Button>
               </Link>
               <Link to="/simulator">
